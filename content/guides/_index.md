@@ -8,9 +8,6 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}}
-Recipes, guides, and tutorials for Blowfish
-{{< /lead >}}
 
 **Blowfish user?** To add your guide to this list, [check the template](/guides/template/).
 

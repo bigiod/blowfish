@@ -8,9 +8,7 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}}
-Blowfish 的使用指南和教程
-{{< /lead >}}
+
 
 **您是 Blowfish 的用户吗?** 要将您自己编写的指南添加到此列表，请查看[参考模板](/guides/template/)。
 
