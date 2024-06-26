@@ -1,6 +1,6 @@
 ---
 title: "Recipes"
-description: "Recipes, guides, and tutorials for Blowfish"
+ 
 
 cascade:
   showDate: false
